@@ -1,0 +1,6 @@
+{
+  "name": "Skyro",
+  "description": "A cinematic drone food delivery app for campus dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
