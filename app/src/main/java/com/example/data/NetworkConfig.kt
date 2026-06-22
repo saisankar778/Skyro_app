@@ -17,12 +17,12 @@ object NetworkConfig {
      * Primary backend URL — your ngrok HTTPS tunnel.
      * UPDATE THIS every time you restart ngrok (the subdomain changes).
      */
-    const val DEFAULT_BASE_URL = "http://10.141.163.70:8000"
+    const val DEFAULT_BASE_URL = "https://9773-103-217-237-56.ngrok-free.app"
 
     /**
      * Custom Drone Backend Base URL (port 8080 ngrok forwarding URL)
      */
-    const val DEFAULT_DRONE_BASE_URL = "https://31b5-117-99-204-176.ngrok-free.app"
+    const val DEFAULT_DRONE_BASE_URL = "https://a8c4-103-217-237-56.ngrok-free.app"
 
     /**
      * The ngrok browser-warning header value required on every request.
